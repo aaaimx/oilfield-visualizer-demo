@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/oilfield-visualizer-demo/precache-manifest.ecee9cdc5c280bbfeb3b46de7ad52e3e.js"
+  "/oilfield-visualizer-demo/precache-manifest.92911660c89ccfbfbb840556470d77de.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "admin-one-vue-bulma-dashboard"});
