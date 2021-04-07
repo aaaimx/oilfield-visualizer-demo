@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/oilfield-visualizer-demo/precache-manifest.da479d435eedb0478f614315d1134e37.js"
+  "/oilfield-visualizer-demo/precache-manifest.a586c333dfe37a7d0d29956f910e0783.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "admin-one-vue-bulma-dashboard"});
+workbox.core.setCacheNameDetails({prefix: "oilfield-dashboard"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
