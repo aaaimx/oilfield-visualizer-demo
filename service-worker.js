@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/oilfield-visualizer-demo/precache-manifest.5cb4491eafd1eb786022df7e60082caf.js"
+  "/oilfield-visualizer-demo/precache-manifest.9d8d939e42111b218ea355d9fca467e0.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "oilfield-dashboard"});
