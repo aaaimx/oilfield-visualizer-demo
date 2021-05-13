@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f026f69bf12734ffe618",
-    "url": "/oilfield-visualizer-demo/css/app.0711dde6.css"
+    "revision": "65bbca7c0345e5cad96d",
+    "url": "/oilfield-visualizer-demo/css/app.b97011f3.css"
   },
   {
     "revision": "bd80ad2a169b110bb9123298c31fb741",
@@ -36,6 +36,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oilfield-visualizer-demo/img/Imagen 05.d8733302.png"
   },
   {
+    "revision": "8bfd6812b06724ee50064f7089263a54",
+    "url": "/oilfield-visualizer-demo/img/Imagen 06.8bfd6812.png"
+  },
+  {
+    "revision": "22a2a3a782d5176dbc6193a5f3fbdc1c",
+    "url": "/oilfield-visualizer-demo/img/Imagen 07.22a2a3a7.png"
+  },
+  {
+    "revision": "3b81b39c6a1c543a342025dd64b17a65",
+    "url": "/oilfield-visualizer-demo/img/Imagen 08.3b81b39c.png"
+  },
+  {
     "revision": "0e04d44a92fcd85b01681b0353496864",
     "url": "/oilfield-visualizer-demo/img/Imagen 09.0e04d44a.png"
   },
@@ -56,12 +68,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oilfield-visualizer-demo/img/logo.eb5a226b.jpeg"
   },
   {
-    "revision": "818ea43c28f79a7a4ccda09573e5d866",
+    "revision": "71f7fb672785cd6e749cecee56d8fbf4",
     "url": "/oilfield-visualizer-demo/index.html"
   },
   {
-    "revision": "f026f69bf12734ffe618",
-    "url": "/oilfield-visualizer-demo/js/app.fae51050.js"
+    "revision": "65bbca7c0345e5cad96d",
+    "url": "/oilfield-visualizer-demo/js/app.7ce4eca0.js"
   },
   {
     "revision": "d738f237eeb083fe659d",
@@ -104,8 +116,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oilfield-visualizer-demo/js/propiedades-mecanicas.c0728809.js"
   },
   {
-    "revision": "88bd3c968c4a5c53f1c6",
-    "url": "/oilfield-visualizer-demo/js/tables.45453cca.js"
+    "revision": "6da51d32d420b7583079",
+    "url": "/oilfield-visualizer-demo/js/tables.fe898591.js"
   },
   {
     "revision": "e29c49a6c17db87a86c2ff226e414605",
