@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "65bbca7c0345e5cad96d",
-    "url": "/oilfield-visualizer-demo/css/app.b97011f3.css"
+    "revision": "d7637e6ee2be3f19b574",
+    "url": "/oilfield-visualizer-demo/css/app.97beb771.css"
   },
   {
     "revision": "bd80ad2a169b110bb9123298c31fb741",
@@ -60,6 +60,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oilfield-visualizer-demo/img/Imagen 11.eda24656.png"
   },
   {
+    "revision": "dae75799cf347faec751020dc0904473",
+    "url": "/oilfield-visualizer-demo/img/Imagen 20.dae75799.jpeg"
+  },
+  {
     "revision": "d38e8ed130eaa21c4cf42adfcd5f6711",
     "url": "/oilfield-visualizer-demo/img/cropped-CENIIP_LOGO-1-220x93.d38e8ed1.jpg"
   },
@@ -68,12 +72,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oilfield-visualizer-demo/img/logo.eb5a226b.jpeg"
   },
   {
-    "revision": "71f7fb672785cd6e749cecee56d8fbf4",
+    "revision": "4809bda3dfe917741cbd05f432b29813",
     "url": "/oilfield-visualizer-demo/index.html"
   },
   {
-    "revision": "65bbca7c0345e5cad96d",
-    "url": "/oilfield-visualizer-demo/js/app.7ce4eca0.js"
+    "revision": "d7637e6ee2be3f19b574",
+    "url": "/oilfield-visualizer-demo/js/app.6ac12cf2.js"
   },
   {
     "revision": "d738f237eeb083fe659d",
@@ -116,8 +120,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oilfield-visualizer-demo/js/propiedades-mecanicas.c0728809.js"
   },
   {
-    "revision": "6da51d32d420b7583079",
-    "url": "/oilfield-visualizer-demo/js/tables.fe898591.js"
+    "revision": "e92d1583f6545e56390d",
+    "url": "/oilfield-visualizer-demo/js/tables.b8817a7a.js"
   },
   {
     "revision": "e29c49a6c17db87a86c2ff226e414605",
